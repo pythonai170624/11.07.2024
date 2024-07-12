@@ -1,5 +1,5 @@
 
-a = 0
+a = 1
 b = 0
 if a == b:
     print(f"was True for {a} {b}")
