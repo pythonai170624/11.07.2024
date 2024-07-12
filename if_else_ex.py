@@ -1,6 +1,6 @@
 
 a = 1
-b = 0
+b = 1
 if a == b:
     print(f"was True for {a} {b}")
 else:
